@@ -14,6 +14,7 @@ namespace aplicacionInventario4
   public partial class FormsProductos : Form
   {
     public Form1 myBaseForm;
+    public FormsInventario mySecondForm;
     public FormsProductos(Form1 myBaseForm)
     {
       InitializeComponent();

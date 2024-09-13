@@ -34,14 +34,14 @@ namespace aplicacionInventario4
       this.Close();
     }
 
-    public void venderProducto()
+    public void operacionComprarPrdocuto()
     {
       int cantidadVender, operacion, cantidadIntern;
 
       cantidadVender = int.Parse(CantidadVenderProductoTextBox.Text);
 
       //como llamar el valor de la cantidad del producto?
-      myBaseForm.materiales.cantidad = cantidadIntern;
+      //myBaseForm.materiales.cantidad = cantidadIntern;
 
     }
 

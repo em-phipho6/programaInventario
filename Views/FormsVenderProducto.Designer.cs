@@ -28,8 +28,6 @@
     /// </summary>
     private void InitializeComponent()
     {
-      DescripcionProductoTextBox = new TextBox();
-      IdProductoComboBox = new ComboBox();
       CantidadProductoVenderTextBox = new TextBox();
       label6 = new Label();
       label4 = new Label();
@@ -37,22 +35,9 @@
       label1 = new Label();
       VenderYaProductoButton = new Button();
       label3 = new Label();
+      IdProductoLabel = new Label();
+      DescripcionProductoLabel = new Label();
       SuspendLayout();
-      // 
-      // DescripcionProductoTextBox
-      // 
-      DescripcionProductoTextBox.Location = new Point(59, 154);
-      DescripcionProductoTextBox.Name = "DescripcionProductoTextBox";
-      DescripcionProductoTextBox.Size = new Size(344, 23);
-      DescripcionProductoTextBox.TabIndex = 15;
-      // 
-      // IdProductoComboBox
-      // 
-      IdProductoComboBox.FormattingEnabled = true;
-      IdProductoComboBox.Location = new Point(75, 84);
-      IdProductoComboBox.Name = "IdProductoComboBox";
-      IdProductoComboBox.Size = new Size(121, 23);
-      IdProductoComboBox.TabIndex = 14;
       // 
       // CantidadProductoVenderTextBox
       // 
@@ -120,15 +105,33 @@
       label3.TabIndex = 18;
       label3.Text = "Vender producto";
       // 
+      // IdProductoLabel
+      // 
+      IdProductoLabel.AutoSize = true;
+      IdProductoLabel.Location = new Point(70, 85);
+      IdProductoLabel.Name = "IdProductoLabel";
+      IdProductoLabel.Size = new Size(38, 15);
+      IdProductoLabel.TabIndex = 19;
+      IdProductoLabel.Text = "label5";
+      // 
+      // DescripcionProductoLabel
+      // 
+      DescripcionProductoLabel.AutoSize = true;
+      DescripcionProductoLabel.Location = new Point(50, 150);
+      DescripcionProductoLabel.Name = "DescripcionProductoLabel";
+      DescripcionProductoLabel.Size = new Size(38, 15);
+      DescripcionProductoLabel.TabIndex = 20;
+      DescripcionProductoLabel.Text = "label5";
+      // 
       // FormsVenderProducto
       // 
       AutoScaleDimensions = new SizeF(7F, 15F);
       AutoScaleMode = AutoScaleMode.Font;
       ClientSize = new Size(452, 398);
+      Controls.Add(DescripcionProductoLabel);
+      Controls.Add(IdProductoLabel);
       Controls.Add(label3);
       Controls.Add(VenderYaProductoButton);
-      Controls.Add(DescripcionProductoTextBox);
-      Controls.Add(IdProductoComboBox);
       Controls.Add(CantidadProductoVenderTextBox);
       Controls.Add(label6);
       Controls.Add(label4);
@@ -142,9 +145,6 @@
     }
 
     #endregion
-
-    private TextBox DescripcionProductoTextBox;
-    private ComboBox IdProductoComboBox;
     private TextBox CantidadProductoVenderTextBox;
     private Label label6;
     private Label label4;
@@ -152,5 +152,7 @@
     private Label label1;
     private Button VenderYaProductoButton;
     private Label label3;
+    private Label IdProductoLabel;
+    private Label DescripcionProductoLabel;
   }
 }

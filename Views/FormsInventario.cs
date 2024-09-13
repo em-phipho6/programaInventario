@@ -49,11 +49,25 @@ namespace aplicacionInventario4
       this.Close();
     }
 
-    public void comprarProducto()
+    private void FormsInventario_Load(object sender, EventArgs e)
     {
-      int cantidadComprar;
 
+    }
 
+    private void ProductosDataGridView_RowEnter(object sender, DataGridViewCellEventArgs e)
+    {
+      for (int i = 0; i < ProductosDataGridView.Rows[e.RowIndex].Cells.Count; i++)
+      {
+        ProductosDataGridView[i, e.RowIndex].Style.BackColor = Color.Yellow;
+      }
+    }
+
+    private void ProductosDataGridView_RowLeave(object sender, DataGridViewCellEventArgs e)
+    {
+      for (int i = 0; i < ProductosDataGridView.Rows[e.RowIndex].Cells.Count; i++)
+      {
+        ProductosDataGridView[i, e.RowIndex].Style.BackColor = Color.Empty;
+      }
     }
   }
 }

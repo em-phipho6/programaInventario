@@ -12,6 +12,10 @@ namespace aplicacionInventario4
 {
   public partial class FormsVenderProducto : Form
   {
+    public Form1 myBaseForm;
+    public FormsProductos mySecondForm;
+    public FormsInventario myThirdForm;
+
     public FormsVenderProducto()
     {
       InitializeComponent();
@@ -31,7 +35,7 @@ namespace aplicacionInventario4
       this.Close();
     }
 
-    public void venderProducto()
+    public void operacionVenderProducto()
     {
       int cantidadVender;
 

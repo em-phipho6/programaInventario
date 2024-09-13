@@ -63,6 +63,8 @@
       ProductosDataGridView.Name = "ProductosDataGridView";
       ProductosDataGridView.Size = new Size(755, 323);
       ProductosDataGridView.TabIndex = 2;
+      ProductosDataGridView.RowEnter += ProductosDataGridView_RowEnter;
+      ProductosDataGridView.RowLeave += ProductosDataGridView_RowLeave;
       ProductosDataGridView.MouseEnter += ProductosDataGridView_MouseEnter;
       // 
       // AtrasButton
@@ -86,6 +88,7 @@
       Controls.Add(AgregarProductoButton);
       Name = "FormsInventario";
       Text = "FormsInventario";
+      Load += FormsInventario_Load;
       ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).EndInit();
       ResumeLayout(false);
       PerformLayout();
