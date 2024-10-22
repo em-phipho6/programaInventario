@@ -4236,26 +4236,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Operador\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Mine\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Operador\\Documents\\programas\\aplicacionInventario4\\aplicacionInventario4.csproj",
+      "projectUniqueName": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj",
       "projectName": "aplicacionInventario4",
-      "projectPath": "C:\\Users\\Operador\\Documents\\programas\\aplicacionInventario4\\aplicacionInventario4.csproj",
-      "packagesPath": "C:\\Users\\Operador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Operador\\Documents\\programas\\aplicacionInventario4\\obj\\",
+      "projectPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj",
+      "packagesPath": "C:\\Users\\Mine\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Operador\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Mine\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
