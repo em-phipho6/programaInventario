@@ -43,7 +43,6 @@ namespace aplicacionInventario4
         tempFormCategorias = new FormsCategorias(this);
         tempFormCategorias.Show();
         //hello
-        //testing testing 
       }
       else
       {
