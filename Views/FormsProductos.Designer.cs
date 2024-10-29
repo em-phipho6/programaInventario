@@ -40,6 +40,7 @@
             IdProductoLabel = new Label();
             PrecioVentaProductoLabel = new Label();
             CategoriaProductoLabel = new Label();
+            IdProductoComboBox = new ComboBox();
             SuspendLayout();
             // 
             // AtrasButton
@@ -175,7 +176,7 @@
             // IdProductoLabel
             // 
             IdProductoLabel.AutoSize = true;
-            IdProductoLabel.Location = new Point(65, 79);
+            IdProductoLabel.Location = new Point(60, 57);
             IdProductoLabel.Name = "IdProductoLabel";
             IdProductoLabel.Size = new Size(94, 15);
             IdProductoLabel.TabIndex = 34;
@@ -199,9 +200,19 @@
             CategoriaProductoLabel.TabIndex = 36;
             CategoriaProductoLabel.Text = "CategoriaProductoLabel";
             // 
+            // IdProductoComboBox
+            // 
+            IdProductoComboBox.FormattingEnabled = true;
+            IdProductoComboBox.Location = new Point(60, 79);
+            IdProductoComboBox.Name = "IdProductoComboBox";
+            IdProductoComboBox.Size = new Size(121, 23);
+            IdProductoComboBox.TabIndex = 37;
+            IdProductoComboBox.SelectionChangeCommitted += IdProductoComboBox_SelectionChangeCommitted;
+            // 
             // FormsProductos
             // 
             ClientSize = new Size(442, 401);
+            Controls.Add(IdProductoComboBox);
             Controls.Add(CategoriaProductoLabel);
             Controls.Add(PrecioVentaProductoLabel);
             Controls.Add(IdProductoLabel);
@@ -250,5 +261,6 @@
     private Label IdProductoLabel;
     private Label PrecioVentaProductoLabel;
     private Label CategoriaProductoLabel;
-  }
+        private ComboBox IdProductoComboBox;
+    }
 }
