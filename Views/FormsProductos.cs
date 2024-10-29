@@ -66,8 +66,17 @@ namespace aplicacionInventario4
             //string selected = this.ComboBox.GetItemText(this.ComboBox.SelectedItem);
 
             //dependiendo del id son los datos que se les hará display
-            IdProductoLabel.Text = tmpMaterial;
+            //así como esta ahora, no muestra como tal el texto que se busca, esa apuntando y buscando correctemente, pero no se muestra bien
+            this.IdProductoLabel.Text = Convert.ToString(tmpMaterial);
 
+            this.DescripcionProductoLabel.Text = "hello";//como muestro los datos dependiendo del id del producto?;
+
+            //for each loop para recorrer las celdas y asignar el texto?
+            //foreach (DataGridViewRow row in ProductosDataGridView.Rows)
+            foreach(DataGridViewCell cells in this.mySecondForm.ProductosDataGridView)
+            {
+
+            }
 
 
         }
