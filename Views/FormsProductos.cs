@@ -15,10 +15,11 @@ namespace aplicacionInventario4
   {
     public Form1 myBaseForm;
     public FormsInventario mySecondForm;
-    public FormsProductos(Form1 myBaseForm)
+    public FormsProductos(FormsInventario mySecondForm)
     {
       InitializeComponent();
-      this.myBaseForm = myBaseForm;
+      this.myBaseForm = mySecondForm.myBaseForm;
+      this.mySecondForm = mySecondForm;
       //buscas en la base de datos 
 
 

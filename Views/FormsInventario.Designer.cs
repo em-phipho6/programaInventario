@@ -32,6 +32,7 @@
             label1 = new Label();
             ProductosDataGridView = new DataGridView();
             AtrasButton = new Button();
+            BuscarProductoButton = new Button();
             ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -64,8 +65,6 @@
             ProductosDataGridView.Size = new Size(755, 323);
             ProductosDataGridView.TabIndex = 2;
             ProductosDataGridView.CellFormatting += ProductosDataGridView_CellFormatting;
-            ProductosDataGridView.RowEnter += ProductosDataGridView_RowEnter;
-            ProductosDataGridView.RowLeave += ProductosDataGridView_RowLeave;
             ProductosDataGridView.MouseEnter += ProductosDataGridView_MouseEnter;
             // 
             // AtrasButton
@@ -78,11 +77,22 @@
             AtrasButton.UseVisualStyleBackColor = true;
             AtrasButton.Click += atrasButton_Click;
             // 
+            // BuscarProductoButton
+            // 
+            BuscarProductoButton.Location = new Point(325, 403);
+            BuscarProductoButton.Name = "BuscarProductoButton";
+            BuscarProductoButton.Size = new Size(103, 23);
+            BuscarProductoButton.TabIndex = 4;
+            BuscarProductoButton.Text = "Buscar producto";
+            BuscarProductoButton.UseVisualStyleBackColor = true;
+            BuscarProductoButton.Click += BuscarProductoButton_Click;
+            // 
             // FormsInventario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(BuscarProductoButton);
             Controls.Add(AtrasButton);
             Controls.Add(ProductosDataGridView);
             Controls.Add(label1);
@@ -101,5 +111,6 @@
     private Label label1;
     private DataGridView ProductosDataGridView;
     private Button AtrasButton;
-  }
+        private Button BuscarProductoButton;
+    }
 }

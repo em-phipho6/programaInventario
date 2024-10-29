@@ -55,39 +55,34 @@ namespace aplicacionInventario4
 
         }
 
-        private void ProductosDataGridView_RowEnter(object sender, DataGridViewCellEventArgs e)
-        {/*
-            for (int i = 0; i < ProductosDataGridView.Rows[e.RowIndex].Cells.Count; i++)
-            {
-                ProductosDataGridView[i, e.RowIndex].Style.BackColor = Color.Yellow;
-            }*/
-        }
-
-        private void ProductosDataGridView_RowLeave(object sender, DataGridViewCellEventArgs e)
-        {
-            
-            for (int i = 0; i < ProductosDataGridView.Rows[e.RowIndex].Cells.Count; i++)
-            {
-                ProductosDataGridView[i, e.RowIndex].Style.BackColor = Color.Empty;
-            }
-        }
-
         private void ProductosDataGridView_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
         {
             int cantidadMinima = 10;
 
-            foreach(DataGridViewRow row in ProductosDataGridView.Rows){
-                for (int i = 1; i < row.Cells.Count; i++) {
-                    if (row.Cells[i].Value != null) {
-                        if (Convert.ToDouble(row.Cells[4].Value) >= cantidadMinima){
+            foreach (DataGridViewRow row in ProductosDataGridView.Rows)
+            {
+                for (int i = 1; i < row.Cells.Count; i++)
+                {
+                    if (row.Cells[i].Value != null)
+                    {
+                        if (Convert.ToDouble(row.Cells[4].Value) >= cantidadMinima)
+                        {
                             row.Cells[4].Style.BackColor = Color.Green;
                         }
-                        else if(Convert.ToDouble(row.Cells[4].Value) < cantidadMinima){
+                        else if (Convert.ToDouble(row.Cells[4].Value) < cantidadMinima)
+                        {
                             row.Cells[4].Style.BackColor = Color.Red;
                         }
                     }
                 }
             }
+        }
+
+        private void BuscarProductoButton_Click(object sender, EventArgs e)
+        {
+            FormsProductos tempFormsProductos;
+            tempFormsProductos = new FormsProductos(this);
+            tempFormsProductos.Show();
         }
     }
 }
