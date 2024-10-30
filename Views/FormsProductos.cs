@@ -94,8 +94,10 @@ namespace aplicacionInventario4
 
             //myBaseForm.materiales listamateriales = new myBaseForm.materiales();
 
+            //IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
+
             
-            
+
         }
     }
 }
