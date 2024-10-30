@@ -98,6 +98,7 @@
             Controls.Add(label1);
             Controls.Add(AgregarProductoButton);
             Name = "FormsInventario";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "FormsInventario";
             Load += FormsInventario_Load;
             ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).EndInit();

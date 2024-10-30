@@ -148,7 +148,7 @@
             // CantidadLabel
             // 
             CantidadLabel.AutoSize = true;
-            CantidadLabel.BackColor = SystemColors.ActiveCaption;
+            CantidadLabel.BackColor = SystemColors.GradientInactiveCaption;
             CantidadLabel.Location = new Point(45, 282);
             CantidadLabel.Name = "CantidadLabel";
             CantidadLabel.Size = new Size(83, 15);
@@ -158,6 +158,7 @@
             // PrecioInternoProductoLabel
             // 
             PrecioInternoProductoLabel.AutoSize = true;
+            PrecioInternoProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             PrecioInternoProductoLabel.Location = new Point(48, 223);
             PrecioInternoProductoLabel.Name = "PrecioInternoProductoLabel";
             PrecioInternoProductoLabel.Size = new Size(155, 15);
@@ -167,6 +168,8 @@
             // DescripcionProductoLabel
             // 
             DescripcionProductoLabel.AutoSize = true;
+            DescripcionProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
+            DescripcionProductoLabel.ForeColor = SystemColors.ControlText;
             DescripcionProductoLabel.Location = new Point(50, 148);
             DescripcionProductoLabel.Name = "DescripcionProductoLabel";
             DescripcionProductoLabel.Size = new Size(146, 15);
@@ -176,6 +179,7 @@
             // IdProductoLabel
             // 
             IdProductoLabel.AutoSize = true;
+            IdProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             IdProductoLabel.Location = new Point(60, 57);
             IdProductoLabel.Name = "IdProductoLabel";
             IdProductoLabel.Size = new Size(94, 15);
@@ -185,6 +189,7 @@
             // PrecioVentaProductoLabel
             // 
             PrecioVentaProductoLabel.AutoSize = true;
+            PrecioVentaProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             PrecioVentaProductoLabel.Location = new Point(240, 218);
             PrecioVentaProductoLabel.Name = "PrecioVentaProductoLabel";
             PrecioVentaProductoLabel.Size = new Size(146, 15);
@@ -194,6 +199,7 @@
             // CategoriaProductoLabel
             // 
             CategoriaProductoLabel.AutoSize = true;
+            CategoriaProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             CategoriaProductoLabel.Location = new Point(242, 285);
             CategoriaProductoLabel.Name = "CategoriaProductoLabel";
             CategoriaProductoLabel.Size = new Size(135, 15);
@@ -231,6 +237,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FormsProductos";
+            StartPosition = FormStartPosition.CenterScreen;
             Load += FormsProductos_Load;
             ResumeLayout(false);
             PerformLayout();

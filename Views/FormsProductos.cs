@@ -20,7 +20,7 @@ namespace aplicacionInventario4
             InitializeComponent();
             this.myBaseForm = mySecondForm.myBaseForm;
             this.mySecondForm = mySecondForm;
-            IdProductoComboBox.DataSource = this.myBaseForm.materiales;
+            IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
             //buscas en la base de datos 
 
 
@@ -73,12 +73,29 @@ namespace aplicacionInventario4
 
             //for each loop para recorrer las celdas y asignar el texto?
             //foreach (DataGridViewRow row in ProductosDataGridView.Rows)
-            foreach(DataGridViewCell cells in this.mySecondForm.ProductosDataGridView)
-            {
+            /*   foreach(DataGridViewRow rows in mySecondForm.Rows)
+               {
 
-            }
+               }
+              */
 
+            Material materiales;
+        }
 
+        public void buscarInfoProducto()
+        {
+            /*
+            var source = new BindingSource();
+            source.DataSource = myBaseForm.categorias;
+
+            var source2 = new BindingSource();
+            source2.DataSource = myBaseForm.materiales;
+            */
+
+            //myBaseForm.materiales listamateriales = new myBaseForm.materiales();
+
+            
+            
         }
     }
 }

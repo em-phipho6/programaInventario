@@ -15,11 +15,15 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public int cantidadMinima = 10;
+        
         public FormsInventario(Form1 myBaseForm)
         {
             InitializeComponent();
             this.myBaseForm = myBaseForm;
             ProductosDataGridView.CellFormatting += ProductosDataGridView_CellFormatting;
+
+            //para hacer publico el data grid view? pero no se donde va 
+            //public static DataGridView test = new DataGridView();
         }
 
         private void AgregarProductoButton_Click(object sender, EventArgs e)
