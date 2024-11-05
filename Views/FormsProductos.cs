@@ -39,7 +39,8 @@ namespace aplicacionInventario4
         private void FormsProductos_Load(object sender, EventArgs e)
         {
             //aqui se tienen que cargar los datos del producto, usando las labels para mostrar los valores correspondientes
-
+            Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
+            IdProductoComboBox.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
         }
 
         private void VenderProductoButton_Click(object sender, EventArgs e)
@@ -67,7 +68,7 @@ namespace aplicacionInventario4
 
             //dependiendo del id son los datos que se les hará display
             //así como esta ahora, no muestra como tal el texto que se busca, esa apuntando y buscando correctemente, pero no se muestra bien
-            this.IdProductoLabel.Text = Convert.ToString(tmpMaterial);
+            this.IdProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
             this.DescripcionProductoLabel.Text = "hello";//como muestro los datos dependiendo del id del producto?;
 
@@ -95,9 +96,6 @@ namespace aplicacionInventario4
             //myBaseForm.materiales listamateriales = new myBaseForm.materiales();
 
             //IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
-
-            
-
         }
     }
 }
