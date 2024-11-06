@@ -15,12 +15,14 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public FormsInventario mySecondForm;
-        public FormsProductos(FormsInventario mySecondForm)
+        public FormsProductos(FormsInventario mySecondForm, int numero)
         {
             InitializeComponent();
             this.myBaseForm = mySecondForm.myBaseForm;
             this.mySecondForm = mySecondForm;
             IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
+
+            //numero - posicion del objeto en la lista, con este se podría hacer la busqueda de la info del objeto
             //buscas en la base de datos 
 
 
@@ -67,44 +69,11 @@ namespace aplicacionInventario4
 
         private void IdProductoComboBox_SelectionChangeCommitted(object sender, EventArgs e)
         {
-            //Categoria tmpCategoria = (Categoria)CategoriaComboBox.SelectedItem;
             Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
 
-            //temp = new Material(int.Parse(IdTextBox.Text), DescripcionProductoTextBox.Text, double.Parse(PrecioInternoTextBox.Text), double.Parse(PrecioVentaTextBox.Text), int.Parse(CantidadTextBox.Text), tmpCategoria)
-            //textbox1.text="";
-
-            //string selected = this.ComboBox.GetItemText(this.ComboBox.SelectedItem);
-
-            //dependiendo del id son los datos que se les hará display
-            //así como esta ahora, no muestra como tal el texto que se busca, esa apuntando y buscando correctemente, pero no se muestra bien
             this.IdProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
-            this.DescripcionProductoLabel.Text = "hello";//como muestro los datos dependiendo del id del producto?;
-
-            //for each loop para recorrer las celdas y asignar el texto?
-            //foreach (DataGridViewRow row in ProductosDataGridView.Rows)
-            /*   foreach(DataGridViewRow rows in mySecondForm.Rows)
-               {
-
-               }
-              */
-
-            Material materiales;
-        }
-
-        public void buscarInfoProducto()
-        {
-            /*
-            var source = new BindingSource();
-            source.DataSource = myBaseForm.categorias;
-
-            var source2 = new BindingSource();
-            source2.DataSource = myBaseForm.materiales;
-            */
-
-            //myBaseForm.materiales listamateriales = new myBaseForm.materiales();
-
-            //IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
+            this.DescripcionProductoLabel.Text = "hello";
         }
     }
 }

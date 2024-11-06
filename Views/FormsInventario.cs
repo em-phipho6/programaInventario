@@ -84,6 +84,8 @@ namespace aplicacionInventario4
 
         private void BuscarProductoButton_Click(object sender, EventArgs e)
         {
+            MessageBox.Show(""+ProductosDataGridView.CurrentRow.Index);
+
             FormsProductos tempFormsProductos;
             tempFormsProductos = new FormsProductos(this);
             tempFormsProductos.Show();

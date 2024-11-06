@@ -20,6 +20,12 @@ namespace aplicacionInventario4.Models
     private Categoria descripcionCategoria;
 
     //metodo constructor
+    public override string ToString()
+    {
+        return descripcionMaterial;
+    }
+
+
     public Material(int idMaterial, string descripcionMaterial, double precioInterno, double precioVenta, int cantidad, /*int cantidadMinima,*/ Categoria descripcionCategoria)
     {
       this.idMaterial = idMaterial;

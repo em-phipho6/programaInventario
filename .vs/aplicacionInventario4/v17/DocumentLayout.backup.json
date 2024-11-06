@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,26 +87,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:15:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Material.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Material.cs",
               "RelativeDocumentMoniker": "Models\\Material.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Material.cs",
               "RelativeToolTip": "Models\\Material.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:32:23.247Z"
+              "WhenOpened": "2024-11-05T15:32:23.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormsProductos.cs [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "FormsProductos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\FormsProductos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Design]",
+              "RelativeToolTip": "Views\\FormsProductos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T18:06:07.456Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -125,14 +143,14 @@
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeToolTip": "Views\\FormsProductos.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA7wCoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:55:54.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FormsAgregarProducto.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarProducto.cs",
@@ -145,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "FormsAgregarProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarProducto.cs",
@@ -156,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FormsCategorias.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsCategorias.cs",
               "RelativeDocumentMoniker": "Views\\FormsCategorias.cs",
@@ -169,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FormsCategorias.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsCategorias.cs",
               "RelativeDocumentMoniker": "Views\\FormsCategorias.cs",
@@ -180,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FormsAgregarCategoria.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarCategoria.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarCategoria.cs",
@@ -193,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FormsAgregarCategoria.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarCategoria.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarCategoria.cs",
@@ -204,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FormsInventario.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.Designer.cs",
@@ -216,20 +234,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FormsInventario.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeToolTip": "Views\\FormsInventario.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowBkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwEsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:25:41.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FormsInventario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
@@ -240,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
@@ -253,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Views\\Form1.Designer.cs",
@@ -265,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
