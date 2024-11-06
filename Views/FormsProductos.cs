@@ -40,7 +40,16 @@ namespace aplicacionInventario4
         {
             //aqui se tienen que cargar los datos del producto, usando las labels para mostrar los valores correspondientes
             Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
-            IdProductoComboBox.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
+            this.IdProductoComboBox.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
+
+            //los textos del forms para que no se vea lo que es 
+            IdProductoLabel.Text = "Identificación del producto";
+            DescripcionProductoLabel.Text = "Descripcion del producto";
+            PrecioInternoProductoLabel.Text = "Precio interno del producto";
+            PrecioVentaProductoLabel.Text = "Precio venta del producto";
+            CantidadLabel.Text = "Cantidad en stock del producto";
+            CategoriaProductoLabel.Text = "Categoria del producto";
+
         }
 
         private void VenderProductoButton_Click(object sender, EventArgs e)
