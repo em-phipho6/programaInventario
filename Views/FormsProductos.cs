@@ -23,6 +23,11 @@ namespace aplicacionInventario4
             IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
 
             //numero - posicion del objeto en la lista, con este se podría hacer la busqueda de la info del objeto
+            //usando el SelectedIndex y la muestra de código que nos ayudó a hacer Hernando
+            
+            
+            
+            
             //buscas en la base de datos 
 
 
