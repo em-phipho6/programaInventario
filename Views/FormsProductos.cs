@@ -15,7 +15,7 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public FormsInventario mySecondForm;
-        public FormsProductos(FormsInventario mySecondForm, int numero)
+        public FormsProductos(FormsInventario mySecondForm/*, int numero*/)
         {
             InitializeComponent();
             this.myBaseForm = mySecondForm.myBaseForm;
@@ -73,7 +73,17 @@ namespace aplicacionInventario4
 
             this.IdProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
-            this.DescripcionProductoLabel.Text = "hello";
+            this.DescripcionProductoLabel.Text = tmpMaterial.DescripcionMaterial;
+
+            
+            this.PrecioInternoProductoLabel.Text = Convert.ToString(tmpMaterial.PrecioInterno);
+            
+            this.PrecioVentaProductoLabel.Text = Convert.ToString(tmpMaterial.PrecioVenta);
+
+            this.CantidadLabel.Text = Convert.ToString(tmpMaterial.Cantidad);
+
+            this.CategoriaProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionCategoria);
+            
         }
     }
 }

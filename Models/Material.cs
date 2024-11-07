@@ -22,7 +22,10 @@ namespace aplicacionInventario4.Models
     //metodo constructor
     public override string ToString()
     {
-        return descripcionMaterial;
+      return descripcionMaterial;
+           
+      //así no es 
+      //return descripcionMaterial + precioInterno + precioVenta + cantidad + descripcionCategoria;
     }
 
 

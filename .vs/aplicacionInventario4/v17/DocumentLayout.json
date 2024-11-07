@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Categoria.cs",
-              "RelativeToolTip": "Models\\Categoria.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormsComprarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs",
+              "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsComprarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:15:39.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T23:19:22.026Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -105,22 +104,22 @@
               "RelativeDocumentMoniker": "Models\\Material.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Material.cs",
               "RelativeToolTip": "Models\\Material.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T15:32:23.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormsProductos.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "FormsProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Design]",
-              "RelativeToolTip": "Views\\FormsProductos.cs [Design]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T18:06:07.456Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -137,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormsProductos.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeToolTip": "Views\\FormsProductos.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:55:54.4Z",
               "EditorCaption": ""
@@ -234,13 +233,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FormsInventario.cs",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeToolTip": "Views\\FormsInventario.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwEsAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv1kAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:25:41.705Z",
               "EditorCaption": ""
