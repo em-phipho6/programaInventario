@@ -109,17 +109,17 @@
             // 
             // ComprarProductoButton
             // 
-            ComprarProductoButton.Location = new Point(49, 344);
+            ComprarProductoButton.Location = new Point(27, 344);
             ComprarProductoButton.Name = "ComprarProductoButton";
-            ComprarProductoButton.Size = new Size(79, 23);
+            ComprarProductoButton.Size = new Size(116, 23);
             ComprarProductoButton.TabIndex = 24;
-            ComprarProductoButton.Text = "Comprar más";
+            ComprarProductoButton.Text = "Comprar producto";
             ComprarProductoButton.UseVisualStyleBackColor = true;
             ComprarProductoButton.Click += ComprarProductoButton_Click;
             // 
             // VenderProductoButton
             // 
-            VenderProductoButton.Location = new Point(159, 344);
+            VenderProductoButton.Location = new Point(173, 344);
             VenderProductoButton.Name = "VenderProductoButton";
             VenderProductoButton.Size = new Size(107, 23);
             VenderProductoButton.TabIndex = 25;

@@ -15,25 +15,24 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public FormsInventario mySecondForm;
-        public FormsProductos(FormsInventario mySecondForm/*, int numero*/)
+        public FormsProductos(FormsInventario mySecondForm, int numero)
         {
             InitializeComponent();
             this.myBaseForm = mySecondForm.myBaseForm;
             this.mySecondForm = mySecondForm;
             IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
+            numero = mySecondForm.indexFila;
 
             //numero - posicion del objeto en la lista, con este se podría hacer la busqueda de la info del objeto
             //usando el SelectedIndex y la muestra de código que nos ayudó a hacer Hernando
             
             //buscas en la base de datos 
-
-            //textbox1.text="";
         }
 
         private void ComprarProductoButton_Click(object sender, EventArgs e)
         {
             FormsComprarProducto tmpFormsComprarProducto;
-            tmpFormsComprarProducto = new FormsComprarProducto();
+            tmpFormsComprarProducto = new FormsComprarProducto(this.mySecondForm);
 
             tmpFormsComprarProducto.Show();
         }
@@ -44,13 +43,26 @@ namespace aplicacionInventario4
             Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
             this.IdProductoComboBox.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
+            ////prueba de como usar el selected index
+            IdProductoLabel.Text = Convert.ToString(" el index del producto (objeto) es: " + mySecondForm.indexFila);
+
+            //look through the list
+            for(int i=0; i <= 5; i++)
+            {
+                int ayo = 0;//how do you actually call the element by index in this situation
+            }
+
+
+
             //los textos del forms para que no se vea lo que es 
-            IdProductoLabel.Text = "Identificación del producto";
+            //IdProductoLabel.Text = "Identificación del producto";
             DescripcionProductoLabel.Text = "Descripcion del producto";
             PrecioInternoProductoLabel.Text = "Precio interno del producto";
             PrecioVentaProductoLabel.Text = "Precio venta del producto";
             CantidadLabel.Text = "Cantidad en stock del producto";
             CategoriaProductoLabel.Text = "Categoria del producto";
+
+            
 
         }
 

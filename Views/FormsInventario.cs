@@ -15,6 +15,7 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public int cantidadMinima = 10;
+        public int indexFila = 0;
         
         public FormsInventario(Form1 myBaseForm)
         {
@@ -85,6 +86,9 @@ namespace aplicacionInventario4
         private void BuscarProductoButton_Click(object sender, EventArgs e)
         {
             MessageBox.Show(""+ProductosDataGridView.CurrentRow.Index);
+
+            indexFila = ProductosDataGridView.CurrentRow.Index;
+            
 
             FormsProductos tempFormsProductos;
             tempFormsProductos = new FormsProductos(this);

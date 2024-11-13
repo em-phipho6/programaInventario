@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\aplicacionInventario4.csproj": {}
+    "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\aplicacionInventario4.csproj": {
+    "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\aplicacionInventario4.csproj",
+        "projectUniqueName": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj",
         "projectName": "aplicacionInventario4",
-        "projectPath": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\aplicacionInventario4.csproj",
-        "packagesPath": "C:\\Users\\ventu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\obj\\",
+        "projectPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\aplicacionInventario4.csproj",
+        "packagesPath": "C:\\Users\\Mine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ventu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Mine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
