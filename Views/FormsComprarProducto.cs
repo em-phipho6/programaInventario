@@ -30,7 +30,7 @@ namespace aplicacionInventario4
         IdProductoLabel.Text = "";
         DescripcionProductoLabel.Text = "Aqui esta la descripcion del producto";
 
-        //int selectedIndex =             
+        //int selectedIndex =         
 
     }
 
