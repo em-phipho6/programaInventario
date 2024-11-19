@@ -36,12 +36,20 @@ namespace aplicacionInventario4
 
     private void ComprarYaProductoButton_Click(object sender, EventArgs e)
     {
-      //antes se tienen que guardar los cambios
+        //antes se tienen que guardar los cambios
 
+        /*
+            Categoria tmpCategoria = (Categoria)CategoriaComboBox.SelectedItem;
 
+        Material temp;
 
-      //al final, se cierra este formulario
-      this.Close();
+        temp = new Material(int.Parse(IdTextBox.Text), DescripcionProductoTextBox.Text, double.Parse(PrecioInternoTextBox.Text), double.Parse(PrecioVentaTextBox.Text), int.Parse(CantidadTextBox.Text), tmpCategoria);
+            */
+
+        Material temp;
+            temp = new(int.Parse(CantidadVenderProductoTextBox.Text));
+        //al final, se cierra este formulario
+        this.Close();
     }
 
     public void operacionComprarPrdocuto()
