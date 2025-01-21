@@ -46,8 +46,8 @@ namespace aplicacionInventario4
         temp = new Material(int.Parse(IdTextBox.Text), DescripcionProductoTextBox.Text, double.Parse(PrecioInternoTextBox.Text), double.Parse(PrecioVentaTextBox.Text), int.Parse(CantidadTextBox.Text), tmpCategoria);
             */
 
-        Material temp;
-            temp = new(int.Parse(CantidadVenderProductoTextBox.Text));
+        //Material temp;
+          //  temp = new(int.Parse(CantidadVenderProductoTextBox.Text));
         //al final, se cierra este formulario
         this.Close();
     }
