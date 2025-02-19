@@ -15,13 +15,13 @@ namespace aplicacionInventario4
     {
         public Form1 myBaseForm;
         public FormsInventario mySecondForm;
-        public FormsProductos(FormsInventario mySecondForm, int numero)
+        public FormsProductos(FormsInventario mySecondForm/*, int numero*/)
         {
             InitializeComponent();
             this.myBaseForm = mySecondForm.myBaseForm;
             this.mySecondForm = mySecondForm;
             IdProductoComboBox.DataSource = mySecondForm.myBaseForm.materiales;
-            numero = mySecondForm.indexFila;
+            //numero = mySecondForm.indexFila;
 
             //numero - posicion del objeto en la lista, con este se podría hacer la busqueda de la info del objeto
             //usando el SelectedIndex y la muestra de código que nos ayudó a hacer Hernando

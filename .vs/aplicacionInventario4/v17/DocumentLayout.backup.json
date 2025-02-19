@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Material.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Models\\Material.cs",
               "RelativeDocumentMoniker": "Models\\Material.cs",
@@ -104,16 +104,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
               "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\Form1.cs",
               "RelativeToolTip": "Views\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T21:47:59.73Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -121,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "FormsAgregarProducto.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsAgregarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarProducto.cs",
@@ -133,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormsInventario.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.Designer.cs",
@@ -145,20 +146,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FormsInventario.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
               "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeToolTip": "Views\\FormsInventario.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAF0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAtwF0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T15:19:34.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FormsInventario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
@@ -169,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "FormsVenderProducto.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.Designer.cs",
@@ -177,11 +178,12 @@
               "RelativeToolTip": "Views\\FormsVenderProducto.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:34:26.844Z"
+              "WhenOpened": "2024-11-13T05:34:26.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FormsVenderProducto.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
@@ -194,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FormsVenderProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
@@ -205,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FormsComprarProducto.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.Designer.cs",
@@ -217,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormsComprarProducto.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
@@ -230,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FormsComprarProducto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
@@ -241,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FormsProductos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.Designer.cs",
@@ -253,20 +255,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "FormsProductos.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
               "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeToolTip": "Views\\FormsProductos.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T05:33:28.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FormsProductos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
