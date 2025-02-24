@@ -1,69 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\",
+  "WorkspaceRootPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formscomprarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formscomprarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formscomprarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formscomprarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsinventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\practicas profesionales\\buhler\\programas\\programainventario\\views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\mine\\documents\\github\\programainventario\\views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:views\\formsvenderproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,29 +79,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Models\\Categoria.cs",
-              "RelativeToolTip": "Models\\Categoria.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:57:19.191Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Models\\Material.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Material.cs",
               "RelativeDocumentMoniker": "Models\\Material.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Models\\Material.cs",
               "RelativeToolTip": "Models\\Material.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\Form1.cs",
               "RelativeToolTip": "Views\\Form1.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,28 +111,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormsInventario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
+              "DocumentIndex": 15,
+              "Title": "FormsInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs [Design]",
-              "RelativeToolTip": "Views\\FormsInventario.cs [Design]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsInventario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T15:19:30.788Z",
               "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Material.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Material.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Material.cs",
+              "RelativeToolTip": "..\\DB\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:49:32.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Categoria.cs",
+              "RelativeToolTip": "..\\DB\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:49:22.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Inventory.cs",
+              "RelativeToolTip": "..\\DB\\Inventory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:48:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FormsAgregarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsAgregarProducto.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsAgregarProducto.cs",
               "RelativeToolTip": "Views\\FormsAgregarProducto.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAADVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "FormsInventario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.Designer.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.Designer.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.Designer.cs",
               "RelativeToolTip": "Views\\FormsInventario.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormsInventario.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsInventario.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeToolTip": "Views\\FormsInventario.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAtwF0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FormsVenderProducto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.Designer.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.Designer.cs",
               "RelativeToolTip": "Views\\FormsVenderProducto.Designer.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,13 +215,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FormsVenderProducto.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs",
               "RelativeToolTip": "Views\\FormsVenderProducto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T05:34:25.066Z",
               "EditorCaption": ""
@@ -203,22 +229,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FormsVenderProducto.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs",
-              "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsVenderProducto.cs [Design]",
-              "RelativeToolTip": "Views\\FormsVenderProducto.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:33:45.818Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "FormsComprarProducto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.Designer.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.Designer.cs",
               "RelativeToolTip": "Views\\FormsComprarProducto.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "FormsComprarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs",
               "RelativeToolTip": "Views\\FormsComprarProducto.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAArwCYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,23 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormsComprarProducto.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs",
-              "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsComprarProducto.cs [Design]",
-              "RelativeToolTip": "Views\\FormsComprarProducto.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T23:19:22.026Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FormsProductos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.Designer.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.Designer.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.Designer.cs",
               "RelativeToolTip": "Views\\FormsProductos.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "FormsProductos.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeToolTip": "Views\\FormsProductos.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,16 +279,48 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormsProductos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs",
+              "DocumentIndex": 12,
+              "Title": "FormsVenderProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs",
+              "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsVenderProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:33:45.818Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormsComprarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs",
+              "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsComprarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:19:22.026Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormsProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\practicas profesionales\\Buhler\\programas\\programaInventario\\Views\\FormsProductos.cs [Design]",
-              "RelativeToolTip": "Views\\FormsProductos.cs [Design]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\FormsProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:57:56.711Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
