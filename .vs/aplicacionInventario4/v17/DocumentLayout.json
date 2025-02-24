@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A641BAE1-DF36-49B1-9ECB-21170294DC37}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A641BAE1-DF36-49B1-9ECB-21170294DC37}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F042F14B-0FED-44F1-BC73-8DB98D64BCE6}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A641BAE1-DF36-49B1-9ECB-21170294DC37}|..\\DB\\DB.csproj|c:\\users\\mine\\documents\\github\\db\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\views\\formsproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -112,15 +112,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "FormsInventario.cs [Dise\u00F1o]",
+              "Title": "FormsInventario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs",
               "RelativeDocumentMoniker": "Views\\FormsInventario.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\FormsInventario.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsInventario.cs [Design]",
+              "RelativeToolTip": "Views\\FormsInventario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T15:19:30.788Z",
               "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -130,9 +130,9 @@
               "RelativeDocumentMoniker": "..\\DB\\Material.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Material.cs",
               "RelativeToolTip": "..\\DB\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:49:32.01Z",
+              "WhenOpened": "2025-02-24T20:19:33.288Z",
               "EditorCaption": ""
             },
             {
@@ -143,22 +143,22 @@
               "RelativeDocumentMoniker": "..\\DB\\Categoria.cs",
               "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Categoria.cs",
               "RelativeToolTip": "..\\DB\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:49:22.155Z",
+              "WhenOpened": "2025-02-24T20:19:08.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Inventory.cs",
-              "RelativeDocumentMoniker": "..\\DB\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\Inventory.cs",
-              "RelativeToolTip": "..\\DB\\Inventory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "..\\DB\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\DB\\InventoryContext.cs",
+              "RelativeToolTip": "..\\DB\\InventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:48:42.644Z",
+              "WhenOpened": "2025-02-24T18:11:02.188Z",
               "EditorCaption": ""
             },
             {
@@ -280,47 +280,47 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "FormsVenderProducto.cs [Dise\u00F1o]",
+              "Title": "FormsVenderProducto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsVenderProducto.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\FormsVenderProducto.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsVenderProducto.cs [Design]",
+              "RelativeToolTip": "Views\\FormsVenderProducto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T05:33:45.818Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FormsComprarProducto.cs [Dise\u00F1o]",
+              "Title": "FormsComprarProducto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs",
               "RelativeDocumentMoniker": "Views\\FormsComprarProducto.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\FormsComprarProducto.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsComprarProducto.cs [Design]",
+              "RelativeToolTip": "Views\\FormsComprarProducto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T23:19:22.026Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormsProductos.cs [Dise\u00F1o]",
+              "Title": "FormsProductos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs",
               "RelativeDocumentMoniker": "Views\\FormsProductos.cs",
-              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\FormsProductos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mine\\Documents\\GitHub\\programaInventario\\Views\\FormsProductos.cs [Design]",
+              "RelativeToolTip": "Views\\FormsProductos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:57:56.711Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
