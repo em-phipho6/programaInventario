@@ -2,6 +2,7 @@ using DB;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace aplicacionInventario4
 {
@@ -18,12 +19,22 @@ namespace aplicacionInventario4
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
 
-            var builder = Host.CreateDefaultBuilder(args);
+            var builder = Host.CreateApplicationBuilder(args);
 
-            builder.Build.AddDbContext<InventoryContext>(options =>
+            builder.Services.AddDbContext<InventoryContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionStrings("InventoryConnection"));
+                options.UseSqlServer("InventoryConnection");
             });
+
+            var app = builder.Build();
+
+            using (var serviceScope = app.Services.CreateScope())
+            {
+                var services = serviceScope.ServiceProvider;
+                var context = services.GetRequiredService<InventoryContext>();
+                context.Database.EnsureCreated();
+                context.Database.Migrate();
+            }
 
         }
     }
