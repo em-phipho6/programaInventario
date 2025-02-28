@@ -7,29 +7,44 @@
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\migrations\\20250228042904_testing2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\programainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\migrations\\20250228042648_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\migrations\\20250228040356_initbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C612423E-5C9F-4C20-B527-1B227BF1A846}|..\\DB\\DB.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\migrations\\20250228040356_initbd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\programainventario\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2A91CC67-342D-4357-AB1F-3A071B04D5D6}|aplicacionInventario4.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ventu\\onedrive\\documentos\\tecmilenio\\8vo semestre\\programa\\db\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,7 +62,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250228042904_testing2.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228042904_testing2.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Migrations\\20250228042904_testing2.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228042904_testing2.cs",
+              "RelativeToolTip": "..\\DB\\Migrations\\20250228042904_testing2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:29:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250228042648_testing.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228042648_testing.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Migrations\\20250228042648_testing.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228042648_testing.cs",
+              "RelativeToolTip": "..\\DB\\Migrations\\20250228042648_testing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:26:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250228040356_initBD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228040356_initBD.Designer.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Migrations\\20250228040356_initBD.Designer.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228040356_initBD.Designer.cs",
+              "RelativeToolTip": "..\\DB\\Migrations\\20250228040356_initBD.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:07:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250228040356_initBD.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228040356_initBD.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Migrations\\20250228040356_initBD.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Migrations\\20250228040356_initBD.cs",
+              "RelativeToolTip": "..\\DB\\Migrations\\20250228040356_initBD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:03:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DB",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\DB.csproj",
+              "RelativeDocumentMoniker": "..\\DB\\DB.csproj",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\DB.csproj",
+              "RelativeToolTip": "..\\DB\\DB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T03:55:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Material.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Material.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Material.cs",
+              "RelativeToolTip": "..\\DB\\Material.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:03:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "..\\DB\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\InventoryContext.cs",
+              "RelativeToolTip": "..\\DB\\InventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:03:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\DB\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\DB\\Categoria.cs",
+              "RelativeToolTip": "..\\DB\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:03:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "aplicacionInventario4.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\aplicacionInventario4.AssemblyInfo.cs",
@@ -60,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
@@ -92,14 +211,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T04:07:52.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "package-lock.json",
               "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
@@ -107,43 +226,8 @@
               "RelativeToolTip": "package-lock.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T03:59:46.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\Material.cs",
-              "RelativeDocumentMoniker": "DB\\Material.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\Material.cs",
-              "RelativeToolTip": "DB\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T03:11:24.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\Categoria.cs",
-              "RelativeDocumentMoniker": "DB\\Categoria.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\Categoria.cs",
-              "RelativeToolTip": "DB\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T03:11:08.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\InventoryContext.cs",
-              "RelativeDocumentMoniker": "DB\\InventoryContext.cs",
-              "ToolTip": "C:\\Users\\ventu\\OneDrive\\Documentos\\TecMilenio\\8vo semestre\\programa\\programaInventario\\DB\\InventoryContext.cs",
-              "RelativeToolTip": "DB\\InventoryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T01:47:07.295Z"
+              "WhenOpened": "2025-02-25T03:59:46.027Z",
+              "EditorCaption": ""
             }
           ]
         }

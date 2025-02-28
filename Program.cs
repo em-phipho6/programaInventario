@@ -32,7 +32,7 @@ namespace aplicacionInventario4
             {
                 var services = serviceScope.ServiceProvider;
                 var context = services.GetRequiredService<InventoryContext>();
-                context.Database.EnsureCreated();
+                //context.Database.EnsureCreated();
                 context.Database.Migrate();
             }
 

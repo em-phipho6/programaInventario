@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\DB\\DB.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "aplicacionInventario4.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
