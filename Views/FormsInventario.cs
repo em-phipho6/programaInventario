@@ -47,6 +47,18 @@ namespace aplicacionInventario4
 
         private void ProductosDataGridView_MouseEnter(object sender, EventArgs e)
         {
+            int maxCantidad = int.MinValue;
+
+            foreach (Material material in myBaseForm.materiales)
+            {
+                if (material.Cantidad > maxCantidad)
+                {
+                    maxCantidad = material.Cantidad;
+                }
+            }
+
+            MessageBox.Show("The highest Cantidad is: " + maxCantidad);
+
             this.refrescarProductosDataGridView();
         }
 
