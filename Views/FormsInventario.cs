@@ -1,4 +1,5 @@
 ﻿using aplicacionInventario4.Models;
+using aplicacionInventario4.Views;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,7 +17,7 @@ namespace aplicacionInventario4
         public Form1 myBaseForm;
         public int cantidadMinima = 10;
         public int indexFila = 0;
-        
+
         public FormsInventario(Form1 myBaseForm)
         {
             InitializeComponent();
@@ -97,14 +98,20 @@ namespace aplicacionInventario4
 
         private void BuscarProductoButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(""+ProductosDataGridView.CurrentRow.Index);
+            MessageBox.Show("" + ProductosDataGridView.CurrentRow.Index);
 
             indexFila = ProductosDataGridView.CurrentRow.Index;
-            
+
 
             FormsProductos tempFormsProductos;
             tempFormsProductos = new FormsProductos(this);
             tempFormsProductos.Show();
+        }
+        
+        private void EliminarProductoButton_Click(object sender, EventArgs e)
+        {
+            FormsEliminarProducto tempFormsEliminarProducto = new FormsEliminarProducto();
+            tempFormsEliminarProducto.Show();
         }
     }
 }

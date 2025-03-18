@@ -33,6 +33,7 @@
             ProductosDataGridView = new DataGridView();
             AtrasButton = new Button();
             BuscarProductoButton = new Button();
+            EliminarProductoButton = new Button();
             ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -79,7 +80,7 @@
             // 
             // BuscarProductoButton
             // 
-            BuscarProductoButton.Location = new Point(325, 403);
+            BuscarProductoButton.Location = new Point(401, 403);
             BuscarProductoButton.Name = "BuscarProductoButton";
             BuscarProductoButton.Size = new Size(103, 23);
             BuscarProductoButton.TabIndex = 4;
@@ -87,11 +88,22 @@
             BuscarProductoButton.UseVisualStyleBackColor = true;
             BuscarProductoButton.Click += BuscarProductoButton_Click;
             // 
+            // EliminarProductoButton
+            // 
+            EliminarProductoButton.Location = new Point(231, 404);
+            EliminarProductoButton.Name = "EliminarProductoButton";
+            EliminarProductoButton.Size = new Size(131, 23);
+            EliminarProductoButton.TabIndex = 5;
+            EliminarProductoButton.Text = "Eliminar producto";
+            EliminarProductoButton.UseVisualStyleBackColor = true;
+            EliminarProductoButton.Click += EliminarProductoButton_Click;
+            // 
             // FormsInventario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(EliminarProductoButton);
             Controls.Add(BuscarProductoButton);
             Controls.Add(AtrasButton);
             Controls.Add(ProductosDataGridView);
@@ -99,7 +111,7 @@
             Controls.Add(AgregarProductoButton);
             Name = "FormsInventario";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "FormsInventario";
+            Text = "Inventario";
             Load += FormsInventario_Load;
             ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).EndInit();
             ResumeLayout(false);
@@ -113,5 +125,6 @@
     private DataGridView ProductosDataGridView;
     private Button AtrasButton;
         private Button BuscarProductoButton;
+        private Button EliminarProductoButton;
     }
 }

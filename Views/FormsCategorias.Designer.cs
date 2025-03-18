@@ -32,6 +32,7 @@
             AgregarCategoriaButton = new Button();
             CategoriasDataGridView = new DataGridView();
             AtrasButton = new Button();
+            EliminarCategoriaButton = new Button();
             ((System.ComponentModel.ISupportInitialize)CategoriasDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -67,7 +68,7 @@
             // 
             // AtrasButton
             // 
-            AtrasButton.Location = new Point(58, 306);
+            AtrasButton.Location = new Point(57, 295);
             AtrasButton.Name = "AtrasButton";
             AtrasButton.Size = new Size(75, 23);
             AtrasButton.TabIndex = 14;
@@ -75,11 +76,22 @@
             AtrasButton.UseVisualStyleBackColor = true;
             AtrasButton.Click += atrasButton_Click;
             // 
+            // EliminarCategoriaButton
+            // 
+            EliminarCategoriaButton.Location = new Point(235, 295);
+            EliminarCategoriaButton.Name = "EliminarCategoriaButton";
+            EliminarCategoriaButton.Size = new Size(120, 23);
+            EliminarCategoriaButton.TabIndex = 15;
+            EliminarCategoriaButton.Text = "Eliminar Categoria";
+            EliminarCategoriaButton.UseVisualStyleBackColor = true;
+            EliminarCategoriaButton.Click += EliminarCategoriaButton_Click;
+            // 
             // FormsCategorias
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(611, 360);
+            Controls.Add(EliminarCategoriaButton);
             Controls.Add(AtrasButton);
             Controls.Add(CategoriasDataGridView);
             Controls.Add(AgregarCategoriaButton);
@@ -99,5 +111,6 @@
     private Button AgregarCategoriaButton;
     private DataGridView CategoriasDataGridView;
     private Button AtrasButton;
-  }
+        private Button EliminarCategoriaButton;
+    }
 }

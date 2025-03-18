@@ -16,6 +16,12 @@
     <Compile Update="Views\FormsComprarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Views\FormsEliminarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\FormsEliminarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\FormsInventario.cs">
       <SubType>Form</SubType>
     </Compile>
