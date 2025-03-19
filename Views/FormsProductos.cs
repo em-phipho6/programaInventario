@@ -25,7 +25,7 @@ namespace aplicacionInventario4
 
             //numero - posicion del objeto en la lista, con este se podría hacer la busqueda de la info del objeto
             //usando el SelectedIndex y la muestra de código que nos ayudó a hacer Hernando
-            
+
             //buscas en la base de datos 
         }
 
@@ -47,7 +47,7 @@ namespace aplicacionInventario4
             IdProductoLabel.Text = Convert.ToString(" el index del producto (objeto) es: " + mySecondForm.indexFila);
 
             //look through the list
-            for(int i=0; i <= 5; i++)
+            for (int i = 0; i <= 5; i++)
             {
                 int ayo = 0;//how do you actually call the element by index in this situation
             }
@@ -62,7 +62,7 @@ namespace aplicacionInventario4
             CantidadLabel.Text = "Cantidad en stock del producto";
             CategoriaProductoLabel.Text = "Categoria del producto";
 
-            
+
 
         }
 
@@ -87,15 +87,16 @@ namespace aplicacionInventario4
 
             this.DescripcionProductoLabel.Text = tmpMaterial.DescripcionMaterial;
 
-            
+
             this.PrecioInternoProductoLabel.Text = Convert.ToString(tmpMaterial.PrecioInterno);
-            
+
             this.PrecioVentaProductoLabel.Text = Convert.ToString(tmpMaterial.PrecioVenta);
 
             this.CantidadLabel.Text = Convert.ToString(tmpMaterial.Cantidad);
 
             this.CategoriaProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionCategoria);
-            
+
         }
+
     }
 }

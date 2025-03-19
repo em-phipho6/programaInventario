@@ -110,7 +110,7 @@ namespace aplicacionInventario4
         
         private void EliminarProductoButton_Click(object sender, EventArgs e)
         {
-            FormsEliminarProducto tempFormsEliminarProducto = new FormsEliminarProducto();
+            FormsEliminarProducto tempFormsEliminarProducto = new FormsEliminarProducto(this);
             tempFormsEliminarProducto.Show();
         }
     }

@@ -52,6 +52,7 @@
             IdProductoComboBox.Name = "IdProductoComboBox";
             IdProductoComboBox.Size = new Size(121, 23);
             IdProductoComboBox.TabIndex = 50;
+            IdProductoComboBox.SelectionChangeCommitted += IdProductoComboBox_SelectionChangeCommitted;
             // 
             // CategoriaProductoLabel
             // 

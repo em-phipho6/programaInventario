@@ -723,3 +723,5 @@ C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInve
 C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInventario\obj\Debug\net8.0-windows\aplicacionInventario4.pdb
 C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInventario\obj\Debug\net8.0-windows\aplicacionInventario4.genruntimeconfig.cache
 C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInventario\obj\Debug\net8.0-windows\ref\aplicacionInventario4.dll
+C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInventario\obj\Debug\net8.0-windows\aplicacionInventario4.Views.FormsEliminarCategoria.resources
+C:\Users\ventu\OneDrive\Documentos\TecMilenio\8vo semestre\programa\programaInventario\obj\Debug\net8.0-windows\aplicacionInventario4.Views.FormsEliminarProducto.resources
