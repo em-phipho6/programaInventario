@@ -12,19 +12,23 @@ namespace aplicacionInventario4.Views
 {
     public partial class FormsEliminarCategoria : Form
     {
-        public FormsEliminarCategoria()
+        public Form1 myBaseForm;
+        public FormsCategorias mySecondForm;
+
+        public FormsEliminarCategoria(FormsCategorias mySecondForm)
         {
             InitializeComponent();
+            this.myBaseForm = mySecondForm.myBaseForm;
+            this.mySecondForm = mySecondForm;
+            EliminarCategoriaIdComboBox.DataSource = mySecondForm.myBaseForm.categorias;
         }
 
         private void ConfirmarEliminarCategoriaButton_Click(object sender, EventArgs e)
         {
 
-            //regresar al forms de categorías
-            /*
-            FormsCategorias tempFormsCategorias = new FormsCategorias(this);
+            FormsCategorias tempFormsCategorias = new FormsCategorias(this.myBaseForm);
             tempFormsCategorias.Show();
-            this.Hide();*/
+            this.Hide();
         }
     }
 }

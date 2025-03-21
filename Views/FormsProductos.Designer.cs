@@ -65,7 +65,7 @@
             label5.AutoSize = true;
             label5.Location = new Point(212, 191);
             label5.Name = "label5";
-            label5.Size = new Size(88, 15);
+            label5.Size = new Size(112, 20);
             label5.TabIndex = 19;
             label5.Text = "Precio de Venta";
             // 
@@ -74,7 +74,7 @@
             label4.AutoSize = true;
             label4.Location = new Point(28, 190);
             label4.Name = "label4";
-            label4.Size = new Size(81, 15);
+            label4.Size = new Size(101, 20);
             label4.TabIndex = 17;
             label4.Text = "Precio Interno";
             // 
@@ -83,7 +83,7 @@
             label3.AutoSize = true;
             label3.Location = new Point(28, 117);
             label3.Name = "label3";
-            label3.Size = new Size(140, 15);
+            label3.Size = new Size(177, 20);
             label3.TabIndex = 15;
             label3.Text = "Descripción del producto";
             // 
@@ -92,7 +92,7 @@
             label2.AutoSize = true;
             label2.Location = new Point(27, 79);
             label2.Name = "label2";
-            label2.Size = new Size(21, 15);
+            label2.Size = new Size(27, 20);
             label2.TabIndex = 13;
             label2.Text = "ID:";
             // 
@@ -103,7 +103,7 @@
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.Location = new Point(98, 25);
             label1.Name = "label1";
-            label1.Size = new Size(245, 21);
+            label1.Size = new Size(310, 28);
             label1.TabIndex = 12;
             label1.Text = "Mostrar información del producto";
             // 
@@ -132,7 +132,7 @@
             label7.AutoSize = true;
             label7.Location = new Point(222, 261);
             label7.Name = "label7";
-            label7.Size = new Size(58, 15);
+            label7.Size = new Size(74, 20);
             label7.TabIndex = 26;
             label7.Text = "Categoria";
             // 
@@ -141,7 +141,7 @@
             label8.AutoSize = true;
             label8.Location = new Point(28, 261);
             label8.Name = "label8";
-            label8.Size = new Size(55, 15);
+            label8.Size = new Size(69, 20);
             label8.TabIndex = 29;
             label8.Text = "Cantidad";
             // 
@@ -151,7 +151,7 @@
             CantidadLabel.BackColor = SystemColors.GradientInactiveCaption;
             CantidadLabel.Location = new Point(45, 282);
             CantidadLabel.Name = "CantidadLabel";
-            CantidadLabel.Size = new Size(83, 15);
+            CantidadLabel.Size = new Size(105, 20);
             CantidadLabel.TabIndex = 30;
             CantidadLabel.Text = "CantidadLabel";
             // 
@@ -161,7 +161,7 @@
             PrecioInternoProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             PrecioInternoProductoLabel.Location = new Point(48, 223);
             PrecioInternoProductoLabel.Name = "PrecioInternoProductoLabel";
-            PrecioInternoProductoLabel.Size = new Size(155, 15);
+            PrecioInternoProductoLabel.Size = new Size(193, 20);
             PrecioInternoProductoLabel.TabIndex = 31;
             PrecioInternoProductoLabel.Text = "PrecioInternoProductoLabel";
             // 
@@ -172,7 +172,7 @@
             DescripcionProductoLabel.ForeColor = SystemColors.ControlText;
             DescripcionProductoLabel.Location = new Point(50, 148);
             DescripcionProductoLabel.Name = "DescripcionProductoLabel";
-            DescripcionProductoLabel.Size = new Size(146, 15);
+            DescripcionProductoLabel.Size = new Size(183, 20);
             DescripcionProductoLabel.TabIndex = 33;
             DescripcionProductoLabel.Text = "DescripcionProductoLabel";
             // 
@@ -182,7 +182,7 @@
             IdProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             IdProductoLabel.Location = new Point(60, 57);
             IdProductoLabel.Name = "IdProductoLabel";
-            IdProductoLabel.Size = new Size(94, 15);
+            IdProductoLabel.Size = new Size(118, 20);
             IdProductoLabel.TabIndex = 34;
             IdProductoLabel.Text = "IdProductoLabel";
             // 
@@ -192,7 +192,7 @@
             PrecioVentaProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             PrecioVentaProductoLabel.Location = new Point(240, 218);
             PrecioVentaProductoLabel.Name = "PrecioVentaProductoLabel";
-            PrecioVentaProductoLabel.Size = new Size(146, 15);
+            PrecioVentaProductoLabel.Size = new Size(183, 20);
             PrecioVentaProductoLabel.TabIndex = 35;
             PrecioVentaProductoLabel.Text = "PrecioVentaProductoLabel";
             // 
@@ -202,7 +202,7 @@
             CategoriaProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
             CategoriaProductoLabel.Location = new Point(242, 285);
             CategoriaProductoLabel.Name = "CategoriaProductoLabel";
-            CategoriaProductoLabel.Size = new Size(135, 15);
+            CategoriaProductoLabel.Size = new Size(170, 20);
             CategoriaProductoLabel.TabIndex = 36;
             CategoriaProductoLabel.Text = "CategoriaProductoLabel";
             // 
@@ -211,7 +211,7 @@
             IdProductoComboBox.FormattingEnabled = true;
             IdProductoComboBox.Location = new Point(60, 79);
             IdProductoComboBox.Name = "IdProductoComboBox";
-            IdProductoComboBox.Size = new Size(121, 23);
+            IdProductoComboBox.Size = new Size(121, 28);
             IdProductoComboBox.TabIndex = 37;
             IdProductoComboBox.SelectionChangeCommitted += IdProductoComboBox_SelectionChangeCommitted;
             // 

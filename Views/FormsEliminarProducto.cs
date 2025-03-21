@@ -48,7 +48,7 @@ namespace aplicacionInventario4.Views
 
         public void eliminarProducto()
         {
-
+            //values=null;
         }
 
         private void EliminarProductoButton_Click(object sender, EventArgs e)

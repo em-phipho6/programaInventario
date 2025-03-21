@@ -63,7 +63,7 @@ namespace aplicacionInventario4.Views
 
         private void EliminarCategoriaButton_Click(object sender, EventArgs e)
         {
-            FormsEliminarCategoria tempFormsEliminarCategoria = new FormsEliminarCategoria();
+            FormsEliminarCategoria tempFormsEliminarCategoria = new FormsEliminarCategoria(this);
             tempFormsEliminarCategoria.Show();
         }
     }
