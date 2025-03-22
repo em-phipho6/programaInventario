@@ -34,6 +34,7 @@
             AtrasButton = new Button();
             BuscarProductoButton = new Button();
             EliminarProductoButton = new Button();
+            VerGraficasButton = new Button();
             ((System.ComponentModel.ISupportInitialize)ProductosDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -98,11 +99,21 @@
             EliminarProductoButton.UseVisualStyleBackColor = true;
             EliminarProductoButton.Click += EliminarProductoButton_Click;
             // 
+            // VerGraficasButton
+            // 
+            VerGraficasButton.Location = new Point(544, 20);
+            VerGraficasButton.Name = "VerGraficasButton";
+            VerGraficasButton.Size = new Size(75, 23);
+            VerGraficasButton.TabIndex = 6;
+            VerGraficasButton.Text = "Ver gráficas";
+            VerGraficasButton.UseVisualStyleBackColor = true;
+            // 
             // FormsInventario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(VerGraficasButton);
             Controls.Add(EliminarProductoButton);
             Controls.Add(BuscarProductoButton);
             Controls.Add(AtrasButton);
@@ -126,5 +137,6 @@
     private Button AtrasButton;
         private Button BuscarProductoButton;
         private Button EliminarProductoButton;
+        private Button VerGraficasButton;
     }
 }

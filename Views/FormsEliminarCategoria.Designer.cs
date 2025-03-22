@@ -54,6 +54,7 @@
             EliminarCategoriaIdComboBox.Name = "EliminarCategoriaIdComboBox";
             EliminarCategoriaIdComboBox.Size = new Size(121, 23);
             EliminarCategoriaIdComboBox.TabIndex = 1;
+            EliminarCategoriaIdComboBox.SelectionChangeCommitted += EliminarCategoriaIdComboBox_SelectionChangeCommitted;
             // 
             // EliminarCateogoriaDescripcionLabel
             // 

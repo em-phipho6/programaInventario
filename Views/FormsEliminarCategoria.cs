@@ -1,4 +1,5 @@
-﻿using System;
+﻿using aplicacionInventario4.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,12 +24,25 @@ namespace aplicacionInventario4.Views
             EliminarCategoriaIdComboBox.DataSource = mySecondForm.myBaseForm.categorias;
         }
 
+        public void eliminarCategoria()
+        {
+            Categoria tmpCategoria = (Categoria)EliminarCategoriaIdComboBox.SelectedItem;
+            
+            this.myBaseForm.categorias.Remove(tmpCategoria);
+        }
+
         private void ConfirmarEliminarCategoriaButton_Click(object sender, EventArgs e)
         {
+            eliminarCategoria();
 
             FormsCategorias tempFormsCategorias = new FormsCategorias(this.myBaseForm);
             tempFormsCategorias.Show();
             this.Hide();
+        }
+
+        private void EliminarCategoriaIdComboBox_SelectionChangeCommitted(object sender, EventArgs e)
+        {
+            
         }
     }
 }

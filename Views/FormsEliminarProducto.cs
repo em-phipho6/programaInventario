@@ -1,4 +1,5 @@
-﻿using System;
+﻿using aplicacionInventario4.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,34 +26,22 @@ namespace aplicacionInventario4.Views
 
         private void FormsEliminarProducto_Load(object sender, EventArgs e)
         {
-            /*
-            //aqui se tienen que cargar los datos del producto, usando las labels para mostrar los valores correspondientes
-            Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
-            this.IdProductoComboBox.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
-            ////prueba de como usar el selected index
-            IdProductoLabel.Text = Convert.ToString(" el index del producto (objeto) es: " + mySecondForm.indexFila);
-
-            //look through the list
-            for (int i = 0; i <= 5; i++)
-            {
-                int ayo = 0;
-            }
-
-            DescripcionProductoLabel.Text = "Descripcion del producto";
-            PrecioInternoProductoLabel.Text = "Precio interno del producto";
-            PrecioVentaProductoLabel.Text = "Precio venta del producto";
-            CantidadLabel.Text = "Cantidad en stock del producto";
-            CategoriaProductoLabel.Text = "Categoria del producto*/
+            EliminaProductoLabel.Text = "Descripción de categoria";
         }
 
         public void eliminarProducto()
         {
             //values=null;
+            Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
+
+            this.myBaseForm.materiales.Remove(tmpMaterial);
         }
 
         private void EliminarProductoButton_Click(object sender, EventArgs e)
         {
+            eliminarProducto();
+
             FormsInventario tempFormsInventario = new FormsInventario(this.myBaseForm);
             tempFormsInventario.Show();
             this.Hide();
@@ -60,13 +49,12 @@ namespace aplicacionInventario4.Views
 
         private void IdProductoComboBox_SelectionChangeCommitted(object sender, EventArgs e)
         {
-            /*
+            
             Material tmpMaterial = (Material)IdProductoComboBox.SelectedItem;
 
             this.IdProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionMaterial);
 
             this.DescripcionProductoLabel.Text = tmpMaterial.DescripcionMaterial;
-
 
             this.PrecioInternoProductoLabel.Text = Convert.ToString(tmpMaterial.PrecioInterno);
 
@@ -74,7 +62,7 @@ namespace aplicacionInventario4.Views
 
             this.CantidadLabel.Text = Convert.ToString(tmpMaterial.Cantidad);
 
-            this.CategoriaProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionCategoria);*/
+            this.CategoriaProductoLabel.Text = Convert.ToString(tmpMaterial.DescripcionCategoria);
         }
     }
 }

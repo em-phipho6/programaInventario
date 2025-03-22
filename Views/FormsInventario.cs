@@ -107,11 +107,12 @@ namespace aplicacionInventario4
             tempFormsProductos = new FormsProductos(this);
             tempFormsProductos.Show();
         }
-        
+
         private void EliminarProductoButton_Click(object sender, EventArgs e)
         {
             FormsEliminarProducto tempFormsEliminarProducto = new FormsEliminarProducto(this);
             tempFormsEliminarProducto.Show();
         }
+
     }
 }

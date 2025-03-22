@@ -99,7 +99,7 @@
             // 
             PrecioInternoProductoLabel.AutoSize = true;
             PrecioInternoProductoLabel.BackColor = SystemColors.GradientInactiveCaption;
-            PrecioInternoProductoLabel.Location = new Point(58, 235);
+            PrecioInternoProductoLabel.Location = new Point(60, 230);
             PrecioInternoProductoLabel.Name = "PrecioInternoProductoLabel";
             PrecioInternoProductoLabel.Size = new Size(155, 15);
             PrecioInternoProductoLabel.TabIndex = 45;
