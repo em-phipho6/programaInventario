@@ -31,41 +31,41 @@
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            ((System.ComponentModel.ISupportInitialize)chart1).BeginInit();
+            CantidadChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            ((System.ComponentModel.ISupportInitialize)CantidadChart).BeginInit();
             SuspendLayout();
             // 
-            // chart1
+            // CantidadChart
             // 
             chartArea2.Name = "ChartArea1";
-            chart1.ChartAreas.Add(chartArea2);
+            CantidadChart.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
-            chart1.Legends.Add(legend2);
-            chart1.Location = new Point(86, 28);
-            chart1.Name = "chart1";
+            CantidadChart.Legends.Add(legend2);
+            CantidadChart.Location = new Point(86, 28);
+            CantidadChart.Name = "CantidadChart";
             series2.ChartArea = "ChartArea1";
             series2.Legend = "Legend1";
             series2.Name = "Series1";
-            chart1.Series.Add(series2);
-            chart1.Size = new Size(608, 348);
-            chart1.TabIndex = 0;
-            chart1.Text = "chart1";
+            CantidadChart.Series.Add(series2);
+            CantidadChart.Size = new Size(608, 348);
+            CantidadChart.TabIndex = 0;
+            CantidadChart.Text = "chart1";
             // 
             // FormsGraphs
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(chart1);
+            Controls.Add(CantidadChart);
             Name = "FormsGraphs";
             Text = "FormsGraphs";
             Load += FormsGraphs_Load;
-            ((System.ComponentModel.ISupportInitialize)chart1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)CantidadChart).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+        private System.Windows.Forms.DataVisualization.Charting.Chart CantidadChart;
     }
 }
