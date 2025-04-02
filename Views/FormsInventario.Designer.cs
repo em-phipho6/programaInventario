@@ -107,6 +107,7 @@
             VerGraficasButton.TabIndex = 6;
             VerGraficasButton.Text = "Ver gráficas";
             VerGraficasButton.UseVisualStyleBackColor = true;
+            VerGraficasButton.Click += VerGraficasButton_Click;
             // 
             // FormsInventario
             // 

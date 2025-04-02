@@ -114,5 +114,10 @@ namespace aplicacionInventario4
             tempFormsEliminarProducto.Show();
         }
 
+        private void VerGraficasButton_Click(object sender, EventArgs e)
+        {
+            FormsGraphs tempFormsGraphs = new FormsGraphs(this);
+            tempFormsGraphs.Show();
+        }
     }
 }

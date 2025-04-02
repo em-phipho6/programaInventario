@@ -6,10 +6,6 @@ namespace aplicacionInventario4
 
   public partial class Form1 : Form
   {
-    //a las propiedades del formulario se le cambiaron unas cosas, para que saliera en el centro de la pantalla
-    //para que no se le pudiera cambiar el tamaño de la ventana con el mouse, que no pudieran maximizar la ventana
-    //
-
     public List<Categoria> categorias;
     public List<Material> materiales;
     public Form1()
@@ -25,9 +21,7 @@ namespace aplicacionInventario4
     }
 
     private void button1_Click(object sender, EventArgs e)
-    {//este boton es el que te lleva al formulario de Inventario
-      //FormsInventario tempFormsInventario = new FormsInventario(this);
-
+    { 
       FormsInventario tempFormsInventario;
       tempFormsInventario = new FormsInventario(this);
       

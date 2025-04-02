@@ -31,41 +31,55 @@
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            CantidadChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            ((System.ComponentModel.ISupportInitialize)CantidadChart).BeginInit();
+            GraficaCantidadProducto = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            AtrasButton = new Button();
+            ((System.ComponentModel.ISupportInitialize)GraficaCantidadProducto).BeginInit();
             SuspendLayout();
             // 
-            // CantidadChart
+            // GraficaCantidadProducto
             // 
             chartArea2.Name = "ChartArea1";
-            CantidadChart.ChartAreas.Add(chartArea2);
+            GraficaCantidadProducto.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
-            CantidadChart.Legends.Add(legend2);
-            CantidadChart.Location = new Point(86, 28);
-            CantidadChart.Name = "CantidadChart";
+            GraficaCantidadProducto.Legends.Add(legend2);
+            GraficaCantidadProducto.Location = new Point(42, 28);
+            GraficaCantidadProducto.Name = "GraficaCantidadProducto";
             series2.ChartArea = "ChartArea1";
             series2.Legend = "Legend1";
             series2.Name = "Series1";
-            CantidadChart.Series.Add(series2);
-            CantidadChart.Size = new Size(608, 348);
-            CantidadChart.TabIndex = 0;
-            CantidadChart.Text = "chart1";
+            GraficaCantidadProducto.Series.Add(series2);
+            GraficaCantidadProducto.Size = new Size(617, 400);
+            GraficaCantidadProducto.TabIndex = 0;
+            GraficaCantidadProducto.Text = "GraficaCantidadProducto";
+            // 
+            // AtrasButton
+            // 
+            AtrasButton.Location = new Point(697, 405);
+            AtrasButton.Name = "AtrasButton";
+            AtrasButton.Size = new Size(75, 23);
+            AtrasButton.TabIndex = 1;
+            AtrasButton.Text = "Atras";
+            AtrasButton.UseVisualStyleBackColor = true;
+            AtrasButton.Click += AtrasButton_Click;
             // 
             // FormsGraphs
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(CantidadChart);
+            Controls.Add(AtrasButton);
+            Controls.Add(GraficaCantidadProducto);
             Name = "FormsGraphs";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "FormsGraphs";
             Load += FormsGraphs_Load;
-            ((System.ComponentModel.ISupportInitialize)CantidadChart).EndInit();
+            ((System.ComponentModel.ISupportInitialize)GraficaCantidadProducto).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private System.Windows.Forms.DataVisualization.Charting.Chart CantidadChart;
+        private System.Windows.Forms.DataVisualization.Charting.Chart GraficaCantidadProducto;
+        private Button AtrasButton;
     }
 }
