@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Material = aplicacionInventario4.Models.Material;
 
 namespace aplicacionInventario4.Views
 {
@@ -28,9 +29,9 @@ namespace aplicacionInventario4.Views
         {
             foreach (Material material  in myBaseForm.materiales)
             {
-                GraficaCantidadProducto.Series["Cantidad"].Points.AddXY(material.DescripcionProducto, material.Cantidad);
-                GraficaCantidadProducto.Series["Cantidad"].AxisLabel = material.DescripcionProducto;
-                GraficaCantidadProducto.Series["Cantidad"].Label = material.Cantidad;
+                GraficaCantidadProducto.Series["Cantidad"].Points.AddXY(material.DescripcionMaterial, material.Cantidad);
+                GraficaCantidadProducto.Series["Cantidad"].AxisLabel = material.DescripcionMaterial;
+                GraficaCantidadProducto.Series["Cantidad"].Label = Convert.ToString(material.Cantidad);
 
                 if (material.Cantidad < mySecondForm.cantidadMinima)
                 {

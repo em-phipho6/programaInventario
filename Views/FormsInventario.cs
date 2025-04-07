@@ -114,7 +114,8 @@ namespace aplicacionInventario4
 
         private void VerGraficasButton_Click(object sender, EventArgs e)
         {
-            FormsGraphs tempFormsGraphs = new FormsGraphs(this);
+            //FormsGraphs tempFormsGraphs = new FormsGraphs(this);
+            FormsGraphs tempFormsGraphs = new FormsGraphs(this.myBaseForm, this);
             tempFormsGraphs.Show();
         }
     }

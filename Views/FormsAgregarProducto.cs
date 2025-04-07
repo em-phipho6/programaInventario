@@ -19,25 +19,18 @@ namespace aplicacionInventario4
     public FormsAgregarProducto(FormsInventario mySecondForm)
     {
       InitializeComponent();
-      //this.myBaseForm = mySecondForm.myBaseForm;
       this.myBaseForm = mySecondForm.myBaseForm;
       CategoriaComboBox.DataSource = this.myBaseForm.categorias;
       this.mySecondForm = mySecondForm;
-      //tenemos que hacer una interfaz o algo para no tener que hacer una nueva lista
-      //para señalar o dirigirse a la lista que ya se empezó en la vista de categorias y agregar categoria 
-      //CategoriaComboBox.DataSource = this.mybaseform.inventariado;
     }
 
     private void AgregarProductoButton_Click(object sender, EventArgs e)
     {
-      //PopupNotifier popup = new PopupNotifier();
-      //PopupEventArgs popup = new PopupEventArgs();
       Categoria tmpCategoria = (Categoria)CategoriaComboBox.SelectedItem;
 
       Material temp;
 
       temp = new Material(int.Parse(IdTextBox.Text), DescripcionProductoTextBox.Text, double.Parse(PrecioInternoTextBox.Text), double.Parse(PrecioVentaTextBox.Text), int.Parse(CantidadTextBox.Text), tmpCategoria);
-      //temp = new Inventario(DescripcionProductoTextBox.Text, int.Parse(CantidadTextBox.Text), double.Parse(PrecioVentaTextBox.Text), tmpCategoria);
 
       this.myBaseForm.materiales.Add(temp);
 
