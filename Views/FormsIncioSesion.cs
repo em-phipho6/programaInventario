@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace aplicacionInventario4.Views
 {
-    public partial class FormsIncioSesion: Form
+    public partial class FormsInicioSesion: Form
     {
-        public FormsIncioSesion()
+        public FormsInicioSesion()
         {
             InitializeComponent();
         }

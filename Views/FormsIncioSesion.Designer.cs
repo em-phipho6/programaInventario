@@ -1,6 +1,6 @@
 ﻿namespace aplicacionInventario4.Views
 {
-    partial class FormsIncioSesion
+    partial class FormsInicioSesion
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             SuspendLayout();
             // 
-            // FormsIncioSesion
+            // FormsInicioSesion
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(632, 425);
-            Name = "FormsIncioSesion";
-            Text = "FormsIncioSesion";
+            Name = "FormsInicioSesion";
+            Text = "FormsInicioSesion";
             ResumeLayout(false);
         }
 
