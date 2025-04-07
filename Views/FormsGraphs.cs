@@ -26,9 +26,20 @@ namespace aplicacionInventario4.Views
 
         private void FormsGraphs_Load(object sender, EventArgs e)
         {
-            foreach (var material  in myBaseForm.materiales)
+            foreach (Material material  in myBaseForm.materiales)
             {
-                GraficaCantidadProducto.Series["Cantidad"].Points.AddXY(myBaseForm.materiales.descipcionMaterial);
+                GraficaCantidadProducto.Series["Cantidad"].Points.AddXY(material.DescripcionProducto, material.Cantidad);
+                GraficaCantidadProducto.Series["Cantidad"].AxisLabel = material.DescripcionProducto;
+                GraficaCantidadProducto.Series["Cantidad"].Label = material.Cantidad;
+
+                if (material.Cantidad < mySecondForm.cantidadMinima)
+                {
+                    GraficaCantidadProducto.Series["Cantidad"].Color = Color.Red;
+                }
+                else if (material.Cantidad >= mySecondForm.cantidadMinima)
+                {
+                    GraficaCantidadProducto.Series["Cantidad"].Color = Color.Green;                
+                }
             }
         }
 

@@ -75,8 +75,6 @@ namespace aplicacionInventario4
 
         private void ProductosDataGridView_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
         {
-            int cantidadMinima = 10;
-
             foreach (DataGridViewRow row in ProductosDataGridView.Rows)
             {
                 for (int i = 1; i < row.Cells.Count; i++)

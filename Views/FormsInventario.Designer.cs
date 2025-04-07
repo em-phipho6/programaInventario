@@ -40,9 +40,10 @@
             // 
             // AgregarProductoButton
             // 
-            AgregarProductoButton.Location = new Point(575, 401);
+            AgregarProductoButton.Location = new Point(657, 535);
+            AgregarProductoButton.Margin = new Padding(3, 4, 3, 4);
             AgregarProductoButton.Name = "AgregarProductoButton";
-            AgregarProductoButton.Size = new Size(132, 26);
+            AgregarProductoButton.Size = new Size(151, 35);
             AgregarProductoButton.TabIndex = 0;
             AgregarProductoButton.Text = "Agregar Producto";
             AgregarProductoButton.UseVisualStyleBackColor = true;
@@ -53,27 +54,30 @@
             label1.AutoSize = true;
             label1.BackColor = Color.LightCoral;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(348, 20);
+            label1.Location = new Point(398, 27);
             label1.Name = "label1";
-            label1.Size = new Size(80, 21);
+            label1.Size = new Size(100, 28);
             label1.TabIndex = 1;
             label1.Text = "Inventario";
             // 
             // ProductosDataGridView
             // 
             ProductosDataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            ProductosDataGridView.Location = new Point(12, 58);
+            ProductosDataGridView.Location = new Point(14, 77);
+            ProductosDataGridView.Margin = new Padding(3, 4, 3, 4);
             ProductosDataGridView.Name = "ProductosDataGridView";
-            ProductosDataGridView.Size = new Size(755, 323);
+            ProductosDataGridView.RowHeadersWidth = 51;
+            ProductosDataGridView.Size = new Size(863, 431);
             ProductosDataGridView.TabIndex = 2;
             ProductosDataGridView.CellFormatting += ProductosDataGridView_CellFormatting;
             ProductosDataGridView.MouseEnter += ProductosDataGridView_MouseEnter;
             // 
             // AtrasButton
             // 
-            AtrasButton.Location = new Point(85, 404);
+            AtrasButton.Location = new Point(97, 539);
+            AtrasButton.Margin = new Padding(3, 4, 3, 4);
             AtrasButton.Name = "AtrasButton";
-            AtrasButton.Size = new Size(75, 23);
+            AtrasButton.Size = new Size(86, 31);
             AtrasButton.TabIndex = 3;
             AtrasButton.Text = "Atrás";
             AtrasButton.UseVisualStyleBackColor = true;
@@ -81,9 +85,10 @@
             // 
             // BuscarProductoButton
             // 
-            BuscarProductoButton.Location = new Point(401, 403);
+            BuscarProductoButton.Location = new Point(458, 537);
+            BuscarProductoButton.Margin = new Padding(3, 4, 3, 4);
             BuscarProductoButton.Name = "BuscarProductoButton";
-            BuscarProductoButton.Size = new Size(103, 23);
+            BuscarProductoButton.Size = new Size(118, 31);
             BuscarProductoButton.TabIndex = 4;
             BuscarProductoButton.Text = "Buscar producto";
             BuscarProductoButton.UseVisualStyleBackColor = true;
@@ -91,9 +96,10 @@
             // 
             // EliminarProductoButton
             // 
-            EliminarProductoButton.Location = new Point(231, 404);
+            EliminarProductoButton.Location = new Point(264, 539);
+            EliminarProductoButton.Margin = new Padding(3, 4, 3, 4);
             EliminarProductoButton.Name = "EliminarProductoButton";
-            EliminarProductoButton.Size = new Size(131, 23);
+            EliminarProductoButton.Size = new Size(150, 31);
             EliminarProductoButton.TabIndex = 5;
             EliminarProductoButton.Text = "Eliminar producto";
             EliminarProductoButton.UseVisualStyleBackColor = true;
@@ -101,9 +107,10 @@
             // 
             // VerGraficasButton
             // 
-            VerGraficasButton.Location = new Point(544, 20);
+            VerGraficasButton.Location = new Point(622, 27);
+            VerGraficasButton.Margin = new Padding(3, 4, 3, 4);
             VerGraficasButton.Name = "VerGraficasButton";
-            VerGraficasButton.Size = new Size(75, 23);
+            VerGraficasButton.Size = new Size(108, 31);
             VerGraficasButton.TabIndex = 6;
             VerGraficasButton.Text = "Ver gráficas";
             VerGraficasButton.UseVisualStyleBackColor = true;
@@ -111,9 +118,9 @@
             // 
             // FormsInventario
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(VerGraficasButton);
             Controls.Add(EliminarProductoButton);
             Controls.Add(BuscarProductoButton);
@@ -121,6 +128,7 @@
             Controls.Add(ProductosDataGridView);
             Controls.Add(label1);
             Controls.Add(AgregarProductoButton);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "FormsInventario";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Inventario";

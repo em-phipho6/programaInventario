@@ -25,6 +25,9 @@
     <Compile Update="Views\FormsGraphs.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Views\FormsIncioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\FormsInventario.cs">
       <SubType>Form</SubType>
     </Compile>
